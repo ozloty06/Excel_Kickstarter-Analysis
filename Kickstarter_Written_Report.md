@@ -8,7 +8,7 @@ Louise is interested in better understanding past Kickstarter campaigns as she p
 To understand how Kickstarter campaigns fared based on their launch date, a pivot table and chart was created. The results were organized in descending order to show "successful" campaigns listed first. The pivot table was filtered to focus on "theatre" campaigns, as Louise is interested in launching a theatre campaign. 
 
 ### Outcomes Based on Goals
-To understand how Kickstarter campaigns fared based on goal dollar amount, we counted total campaigns based on $5000 reguarl intervals of goal amounts. We compared the percent success, failed or cancelled within each interval to determine where Louise may want to target her goal. Aside from double checking the correct filtering of the data to ensure we were looking at "theatres" or "plays" specifically, no challenges or difficulties were encountered in this analysis.
+To understand how Kickstarter campaigns fared based on goal dollar amount, we counted total campaigns based on $5000 regular intervals of goal amounts. We compared the percent success, failed or cancelled within each interval to determine where Louise may want to target her goal. Aside from double checking the correct filtering of the data to ensure we were looking at "theatres" or "plays" specifically, no challenges or difficulties were encountered in this analysis.
 
 ## RESULTS
 ### Outcomes Based on Launch Date 
@@ -22,6 +22,6 @@ While generally higher goals yield greater success up to $45,000, there's an unc
 *See image: Outcomes_vs_Goals.png* 
 
 ### Additional Notes
-As there are only about 1000 campaigns in the "plays" subcategory, the number of plays with higher goals is relatively small and so the data shows increased volitility that may be attributed to few data points. 
+As there are only about 1000 campaigns in the "plays" subcategory, the number of plays with higher goals is relatively small and so the data shows increased volatility that may be attributed to few data points. 
 
-In closing, additioanl analysis could be conducted, including looking at more recent data to see if recent trends vary from historic trends, focus on geographic area analysis to ensure we're representing the area of interest to Louise, or even take a look at campaign duration to determine if there's an ideal length for a kickstarter campaign in general or with "plays" specifically.
+In closing, additional analysis could be conducted, including looking at more recent data to see if recent trends vary from historic trends, focus on geographic area analysis to ensure we're representing the area of interest to Louise, or even take a look at campaign duration to determine if there's an ideal length for a Kickstarter campaign in general or with "plays" specifically.
